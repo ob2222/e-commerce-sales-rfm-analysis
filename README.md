@@ -24,7 +24,8 @@
 * Анализ динамики выручки по месяцам.
 * Определение Топ-10 стран по объему продаж.
 
-![Sales Trend](images/sales_trend.png)
+![Sales Trend]<img width="1023" height="561" alt="Снимок экрана 2025-11-20 213749" src="https://github.com/user-attachments/assets/bae621f6-e303-4d6e-8f37-700385df6217" />
+
 *(График динамики продаж)*
 
 ### 3. RFM-анализ (Сегментация)
